@@ -1,4 +1,6 @@
-# Fuidshift: Move Filesystem ownership into other subordinated uid ranges
+# Fuidshift
+
+Move Filesystem ownership into other subordinated uid ranges
 
 ## Motivation
 
@@ -14,8 +16,9 @@ which comes with lxd, so it can be build and installed with a single `go get`.
 
 1. Install the go compiler
 2. Get fuidshift:
-
-  $ go get github.com/Mic92/fuidshift
+```
+$ go get github.com/Mic92/fuidshift
+```
 
 ## Usage
 
