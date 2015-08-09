@@ -1,5 +1,7 @@
 # Fuidshift
 
+[![Build Status](https://travis-ci.org/Mic92/fuidshift.svg?branch=master)](https://travis-ci.org/Mic92/fuidshift)
+
 Move Filesystem ownership into other subordinated uid ranges
 
 ## Motivation

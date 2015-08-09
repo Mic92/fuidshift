@@ -1,0 +1,5 @@
+sudo: true
+language: go
+script:
+  - go test -c
+  - sudo ./fuidshift.test
